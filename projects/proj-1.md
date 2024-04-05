@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Le Lac au Secret - Un Court-Métrage du Cours Carouge'
+title: 'Le Lac au Secret'
 date: 2024-04-05
 categories: film court-métrage festival concours
 ---
